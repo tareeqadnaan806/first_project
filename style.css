@@ -1,0 +1,14 @@
+#header{
+text-shadow:8px 8px #3399ff;
+text-align:center;
+}
+
+.para{
+background-color:tan;
+box-shadow:5px -6px;
+}
+
+.h1{
+border:3px solid red; 
+box-shadow:3px -3px #3300ff;
+}
